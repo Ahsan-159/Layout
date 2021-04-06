@@ -102,7 +102,7 @@ text-align: center;
     .content{
         width: auto;
         overflow: hidden;
-        background-image: url('/head.png');
+        background-image: url('head.png');
         color: white;
         height: auto;
         order: 2; 
